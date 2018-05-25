@@ -22,6 +22,7 @@ Customize common.bash with the following info\:
 		- Calico network plugin as CNI implementation.
 		- traefik ingress controller
 		- k8s dashboard installed with readonly permissions
+		- Helm installed
 		- admin.kubeconfig with admin user so you can access api server cluster
 
 ### Some tips regarding HA config.
